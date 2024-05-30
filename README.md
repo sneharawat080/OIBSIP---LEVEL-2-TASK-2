@@ -64,7 +64,8 @@ This project is created in honor of Nelson Mandela. His legacy continues to insp
 ---
 
 ### Contact
-Your Name - Sneha Rawat - Sneharawat080@gmail.com
+Name - Sneha Rawat 
+Email Id - Sneharawat080@gmail.com
 
 Project Link: [https://github.com/your_username/tribute-to-nelson-mandela](https://github.com/your_username/tribute-to-nelson-mandela)
 
