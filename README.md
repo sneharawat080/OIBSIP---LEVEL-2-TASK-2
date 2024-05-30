@@ -64,7 +64,7 @@ This project is created in honor of Nelson Mandela. His legacy continues to insp
 ---
 
 ### Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+Your Name - Sneha Rawat - Sneharawat080@gmail.com
 
 Project Link: [https://github.com/your_username/tribute-to-nelson-mandela](https://github.com/your_username/tribute-to-nelson-mandela)
 
